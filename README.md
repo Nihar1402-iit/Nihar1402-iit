@@ -15,7 +15,6 @@
 <a href="https://linkedin.com/in/nihar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihar shah" height="30" width="40" /></a>
 <a href="https://instagram.com/nihar_shah_1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihar_shah_1402" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nihardshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihardshah" height="30" width="40" /></a>
-<a href="https://discord.gg/nihar1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="nihar1402" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
