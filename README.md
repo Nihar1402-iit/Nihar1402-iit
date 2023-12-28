@@ -1,4 +1,6 @@
-![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/b4379dbf-58b2-4749-ada2-c767e91a1553)
+![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/9cc41a51-9432-4d6d-97e9-6869a6fc200d)
+
+
 
 
 
