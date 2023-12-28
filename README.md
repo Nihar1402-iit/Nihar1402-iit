@@ -1,4 +1,4 @@
-![logo]([https://github.com/Nihar1402-iit/Nihar1402-iit/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png]https://github.com/Nihar1402-iit/Nihar1402-iit/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
+![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/blob/main/Green%20Gaming%20Channel%20YouTube%20Channel%20Art.png)
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
 <h3 align="center">A passionate Software engineer, developer from India</h3>
 
