@@ -13,9 +13,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nihar shah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nihar shah" height="30" width="40" /></a>
-<a href="https://instagram.com/nihar_shah_1402" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="nihar_shah_1402" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/nihardshah" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="nihardshah" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nihar shah" target="blank"><img align="center" src="https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/930e85c8-7d5b-421d-8639-a7daa119d162" alt="nihar shah" height="40" width="40" /></a>
+<a href="https://instagram.com/nihar_shah_1402" target="blank"><img align="center" src="https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/ebd6154d-9b4b-4c5a-b3b0-33d70dfce3e4" alt="nihar_shah_1402" height="40" width="40" /></a>
+<a href="https://www.leetcode.com/nihardshah" target="blank"><img align="center" src="https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/b6096b9b-3263-4454-9422-28173abfbbbd" alt="nihardshah" height="40" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
