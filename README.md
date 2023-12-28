@@ -1,4 +1,5 @@
-![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/9e357c9a-ef44-4794-a61f-b1be1d47a689)
+![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/6b92bd58-2ffb-4166-9b7a-05045dadc397)
+
 
 
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
