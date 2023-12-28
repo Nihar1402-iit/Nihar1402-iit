@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
 <h3 align="center">A passionate Software engineer, developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="[https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif(https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fprogrammer&psig=AOvVaw1JK57am5l-NifOZ0Z3QMUY&ust=1703763991445000&source=images&cd=vfe&opi=89978449&ved=2ahUKEwiLwJnNxa-DAxWvX2wGHQ25B1kQjRx6BAgAEBU)](https://user-images.githubusercontent.com/74038190/212750147-854a394f-fee9-4080-9770-78a4b7ece53f.gif)">
+<img align="right" alt="coding" width="400" src="![image](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/0914ced6-1f7d-4912-a271-ce030d7e97da)">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar1402-iit&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1402-iit" /> </p>
 
