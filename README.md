@@ -1,4 +1,4 @@
-![logo](![Green Gaming Channel YouTube Channel Art](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/539e4f06-f479-41c6-8c3c-dd6373bd51f9))
+![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/539e4f06-f479-41c6-8c3c-dd6373bd51f9)
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
 <h3 align="center">A passionate Software engineer, developer from India</h3>
 
