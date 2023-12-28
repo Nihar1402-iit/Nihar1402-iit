@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
 <h3 align="center">A passionate Software engineer, developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/a7eae5fa-3794-4dd5-8484-157a756b92e6">
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar1402-iit&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1402-iit" /> </p>
 
