@@ -1,4 +1,5 @@
-![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/9cc41a51-9432-4d6d-97e9-6869a6fc200d)
+![logo](https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/4e257cee-0fc3-4e8f-87ea-fdc41cba6446)
+
 
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
 <h3 align="center">A passionate Software engineer, developer from India</h3>
