@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **nihar.shah@iitgn.ac.in**
 
+- 📚 Click here to see my [portfolio](https://nihar1402-iit.github.io/).
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/nihar shah" target="blank"><img align="center" src="https://github.com/Nihar1402-iit/Nihar1402-iit/assets/117573996/930e85c8-7d5b-421d-8639-a7daa119d162" alt="nihar shah" height="40" width="40" /></a>
