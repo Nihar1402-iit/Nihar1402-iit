@@ -2,13 +2,13 @@
 
 
 <h1 align="center">Hi 👋, I'm Nihar Shah</h1>
-<h3 align="center">A passionate Software engineer, developer from India</h3>
+<h3 align="center">An engineer deeply interested in the math underlying machine learning. Huge fan of Computer Vision</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nihar1402-iit&label=Profile%20views&color=0e75b6&style=flat" alt="nihar1402-iit" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning**
+- 🌱 Going in depth of the concepts in Computer Vision and NLP.
 
 - 📫 How to reach me **nihar.shah@iitgn.ac.in**
 
